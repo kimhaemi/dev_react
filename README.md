@@ -3,5 +3,6 @@ react server
 
 
 # backend
--- start
--- node server.js
+> cd backend
+> npm install
+> start : node server.js
